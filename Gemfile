@@ -5,7 +5,10 @@ gem 'puma'
 gem 'rake'
 gem 'sinatra'
 
-gem 'pry', group: :development
+group :development do
+  gem 'pry'
+  gem 'rubocop'
+end
 
 group :test do
   gem 'rack-test'
