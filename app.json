@@ -1,0 +1,5 @@
+{
+  "name": "Heroku Sinatra sample app",
+  "description": "A barebones Sinatra app, which can easily be deployed to Heroku",
+  "image": "heroku/ruby"
+}
