@@ -3,8 +3,7 @@ A Sinatra template for Heroku (and heroku-docker!) with some extra goodies inclu
 
 This repository ~~rips~~ takes a page out of Heroku's book of "getting started" repositories; it provides a scaffold for a Sinatra app that you can run out of the box with standard Heroku tools. Heroku provides a couple of fantastic starting points for a variety of platforms on [GitHub][1], including a [Rails app][2]. This is just a Sinatra variation on the theme.
 
-## *caveat emptor*: opinions abound here
-This repository includes a bunch of tools that I find useful. You may not want them!
+***caveat emptor:*** This repository includes a bunch of tools that I *personally* find useful. You probably have opinions of your own, and you may not want them!
 
 * **RSpec** for behavior-driven design
 * **Pry** for a better REPL
@@ -43,9 +42,7 @@ Contributions are always welcome. Submit a pull request or send me an email with
 
 This project is released under the MIT license.
 
-Jordan Ryan Reuter
-
-<mailto:me@jreut.com>
+Jordan Ryan Reuter (<mailto:me@jreut.com>)
 
 [1]: https://github.com/heroku
 [2]: https://github.com/heroku/ruby-getting-started
